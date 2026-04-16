@@ -1,0 +1,24 @@
+ALL: .dns.google
+ALL: dns.google
+ALL: .dns.defense.tn
+ALL: dns.defense.tn
+#ALL: .defense.tn
+#ALL: defense.tn
+ALL: .cloudflare-dns.com
+ALL: cloudflare-dns.com
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
+ALL: 
